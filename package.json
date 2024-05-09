@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "name": "student_quiz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": {"student_quiz" : "index.js" },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayush (457313)",
+  "license": "ISC",
+  "description": "GIAIC assingment"
+}
